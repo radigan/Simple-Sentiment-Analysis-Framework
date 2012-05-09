@@ -1,1 +1,8 @@
 Initializing this project - should be fun!
+
+Initial framework thinking:
+
+1 - clob of text is passed to main framework
+2 - analysis is performed
+3 - sentiment 1 of X is returned
+ 
